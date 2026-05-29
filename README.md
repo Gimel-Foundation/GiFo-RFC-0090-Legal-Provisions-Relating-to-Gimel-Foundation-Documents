@@ -1,6 +1,6 @@
 **GiFo-Request for Comments: 0090 (V2.0)**
 
-Obsoletes: RFC 0090 V1.0 (eFective 1. July 2025)
+Obsoletes: RFC 0090 V1.0 (effective 1. July 2025)
 
 Category: Best Current Practice
 
