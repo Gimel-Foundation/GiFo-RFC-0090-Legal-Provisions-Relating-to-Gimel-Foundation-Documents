@@ -13,7 +13,8 @@ Publishing date: 10. June 2026 (effective date)
 Legal Provisions Relating to Gimel Foundation Documents
 
 
-Background: 
+**Background:**
+
 Gimel Foundation aims at a more inclusive, fair and just global digital economy,
 including helping to achieve U.N. SDGs. It was established to acquire, hold, maintain,
 and license intellectual property associated with these targets. Contributors grant the
