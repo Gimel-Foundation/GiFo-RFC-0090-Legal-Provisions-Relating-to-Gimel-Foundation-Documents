@@ -1,14 +1,14 @@
-**GiFo-Request for Comments: 0090 (V2.0)**
+**GiFo-Request for Comments: 0090 (V2.1)**
 
-Obsoletes: RFC 0090 V1.0 (effective 1. July 2025)
+Obsoletes: RFC 0090 V2.0 
 
 Category: Best Current Practice
 
-Version: 2.0
+Version: 2.1 
 
 Author: Bjørn Baunbæk
 
-Publishing date: 10. June 2026 (effective date)
+Publishing date: 23. June 2026 (effective date)
 
 Legal Provisions Relating to Gimel Foundation Documents
 
